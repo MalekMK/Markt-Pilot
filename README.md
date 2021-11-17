@@ -14,9 +14,9 @@ This is a temporary solution and could be maintained !
 
 #### Then activate the env :
 
-#### MacOS/Linux: 
+##### for MacOS/Linux: 
 `source marktPlatz/bin/activate`
-#### Windows: 
+##### for Windows: 
 `marktPlatz\Scripts\activatee`
 
 
