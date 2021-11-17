@@ -8,16 +8,30 @@ This is a temporary solution and could be maintained !
 
 ### clone the repo and then go the main folder.
 
-#### Create a virtual env via `virtualenv marktPlatz`
+#### Create a virtual env via 
+
+`virtualenv marktPlatz`
+
 #### Then activate the env :
 
-#### MacOS/Linux: `source marktPlatz/bin/activate`
-#### Windows: `marktPlatz\Scripts\activatee`
+#### MacOS/Linux: 
+`source marktPlatz/bin/activate`
+#### Windows: 
+`marktPlatz\Scripts\activatee`
 
-#### Run `pip3 install -r requirements.txt`
 
-#### To run the script: `python3 main.py`
+#### Install requirements 
 
-#### To run the tests: `python3 -m unittest`
+`pip3 install -r requirements.txt`
 
-#### Once finished Desactivate the env via: `deactivate`
+#### To run the script: 
+
+`python3 main.py`
+
+#### To run the tests: 
+
+`python3 -m unittest`
+
+#### Once finished Desactivate the env via: 
+
+`deactivate`
